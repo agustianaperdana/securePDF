@@ -1,0 +1,15 @@
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\PdfSharp.Charting.dll
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\PdfSharp.dll
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\PdfSharp.xml
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\PdfSharp.Charting.xml
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\agust\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
